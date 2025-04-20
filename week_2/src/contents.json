@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Pengenalan konsep React",
+        "content": "JavaScript is a versatile programming language used for web development.",
+        "date" : "2023-10-01"
+    },
+    {
+        "title": "Belajar menggunakan komponen",
+        "content": "JavaScript is a versatile programming language used for web development.",
+        "date" : "2023-10-01"
+    },
+    {
+        "title": "Belajar Cara menggunakan Props",
+        "content": "JavaScript is a versatile programming language used for web development.",
+        "date" : "2023-10-01"
+    },
+    {
+        "title": "Be;ajar cara menggunakan state",
+        "content": "JavaScript is a versatile programming language used for web development.",
+        "date" : "2023-10-01"
+    },
+    {
+        "title": "Belajar cara menggunakan event handling",
+        "content": "JavaScript is a versatile programming language used for web development.",
+        "date" : "2023-10-01"
+    }
+
+]
